@@ -12,3 +12,4 @@
 [submodule "lib/token-bridge-contracts"]
 	path = lib/token-bridge-contracts
 	url = https://github.com/offchainlabs/token-bridge-contracts
+	branch = dep-cleanup
