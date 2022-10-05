@@ -7,3 +7,5 @@
 [submodule "lib/nitro"]
 	path = lib/nitro
 	url = https://github.com/OffchainLabs/nitro
+	branch = master
+	shallow = true
