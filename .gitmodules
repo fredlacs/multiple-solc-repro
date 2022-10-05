@@ -9,3 +9,6 @@
 	url = https://github.com/OffchainLabs/nitro
 	branch = master
 	shallow = true
+[submodule "lib/token-bridge-contracts"]
+	path = lib/token-bridge-contracts
+	url = https://github.com/offchainlabs/token-bridge-contracts
